@@ -26,5 +26,5 @@
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
+- [ThatOneCalculator](https://t1c.dev)
 - [DarkNighter](https://github.com/Yassiri383j/DarkNighter/)
