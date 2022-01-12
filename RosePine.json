@@ -1,0 +1,52 @@
+{
+    "manifest": {
+        "author": "ThatOneCalculator#0001",
+        "name": " Rosé Pine",
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/rose-pine\/aliucord\/main\/RosePine.json"
+    },
+    "background": {},
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/793213807571763230\/910191800793309255\/ComicNeue-Regular.ttf"
+    },
+    "simple_colors": {
+        "mention_highlight": 976647062,
+        "statusbar": -1694091180,
+        "background": -16510439,
+        "active_channel": -16291391,
+        "background_secondary": -16574172,
+        "accent": -11760976
+    },
+    "colors": {
+        "brand_new": -16566701,
+        "brand_new_360": -16035979,
+        "brand_new_560": -15177321,
+        "primary_dark_660": -16777216,
+        "primary_dark_800": -16315378,
+        "primary_600": -16636873,
+        "brand_new_230": -15177321,
+        "link": -15494441,
+        "primary_dark_300": -8672314,
+        "primary_700": -16376792,
+        "uikit_btn_bg_color_selector_red": -12933922,
+        "uikit_btn_bg_color_selector_green": -1157585153
+    },
+    "drawable_tints": {
+        "ic_mobile": -1157585153,
+        "ic_channel_announcements": -8672314,
+        "ic_channel_announcements_16dp": -10317139,
+        "ic_channel_announcements_locked": -8672314,
+        "ic_channel_announcements_nsfw": -8672314,
+        "ic_channel_announcements_thread": -8672314,
+        "ic_profile_badge_verified_developer_32dp": -1157585153,
+        "ic_hypesquad_house3_32dp": -1157585153,
+        "ic_hypesquad_house1_32dp": -1157585153,
+        "ic_hypesquad_house2_32dp": -1157585153,
+        "ic_profile_badge_hypesquad_32dp": -1157585153,
+        "ic_sticker_icon_24dp": -1157585153,
+        "img_stickers_search_empty_90dp": -16635842,
+        "ic_add_friend_plus": -8672314,
+        "ic_members_12dp": -8672314,
+        "ic_theme_24dp": -1157585153
+    }
+}
