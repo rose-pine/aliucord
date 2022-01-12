@@ -11,11 +11,14 @@
     </a>
 </p>
 
+# UNDER DEVELOPMENT!!
+
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Themer plugin installed
+2. Chat & Settings transparency enabled
+3. Font hook enabled
+4. Dark mode enabled (AMOLED mode disabled for better results)
 
 ## Gallery
 
@@ -24,12 +27,4 @@
 ## Thanks to
 
 - [You, it's you!](https://github.com/<username>)
-
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Format repo description as "Soho vibes for App"
-- Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
+- [DarkNighter](https://github.com/Yassiri383j/DarkNighter/)
