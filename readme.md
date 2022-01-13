@@ -23,10 +23,11 @@
 
 ## Gallery
 
-![image](https://user-images.githubusercontent.com/44733677/149420024-3c13b890-203e-4f58-b626-46a6d766e446.png)
-![image](https://user-images.githubusercontent.com/44733677/149420037-d675ca08-b108-4140-ae85-043087d30a7f.png)
-![image](https://user-images.githubusercontent.com/44733677/149420059-012861c2-82a1-4950-a96a-9548a9b1058d.png)
-
+<div>
+<img src="https://user-images.githubusercontent.com/44733677/149420024-3c13b890-203e-4f58-b626-46a6d766e446.png" height="500" />
+<img src="https://user-images.githubusercontent.com/44733677/149420037-d675ca08-b108-4140-ae85-043087d30a7f.png" height="500" />
+<img src="https://user-images.githubusercontent.com/44733677/149420059-012861c2-82a1-4950-a96a-9548a9b1058d.png" height="500" />
+</div>
 
 ## Thanks to
 
