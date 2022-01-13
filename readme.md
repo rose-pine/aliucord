@@ -11,18 +11,22 @@
     </a>
 </p>
 
-# UNDER DEVELOPMENT!!
-
 ## Usage
 
 ### Requirements
-1. Themer plugin installed
-2. Chat & Settings transparency enabled
-4. Dark mode enabled (AMOLED mode disabled for better results)
+- Themer plugin
+- Dark mode enabled (AMOLED mode disabled for better results)
+
+### Install
+1. Download RosePine.json
+2. In the Themer plugin settings, idk
 
 ## Gallery
 
-![Rosé Pine with App](assets/template.png)
+![image](https://user-images.githubusercontent.com/44733677/149420024-3c13b890-203e-4f58-b626-46a6d766e446.png)
+![image](https://user-images.githubusercontent.com/44733677/149420037-d675ca08-b108-4140-ae85-043087d30a7f.png)
+![image](https://user-images.githubusercontent.com/44733677/149420059-012861c2-82a1-4950-a96a-9548a9b1058d.png)
+
 
 ## Thanks to
 
