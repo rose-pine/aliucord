@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for Aliucord</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -15,9 +15,9 @@
 
 ## Usage
 
+### Requirements
 1. Themer plugin installed
 2. Chat & Settings transparency enabled
-3. Font hook enabled
 4. Dark mode enabled (AMOLED mode disabled for better results)
 
 ## Gallery
@@ -27,4 +27,3 @@
 ## Thanks to
 
 - [ThatOneCalculator](https://t1c.dev)
-- [DarkNighter](https://github.com/Yassiri383j/DarkNighter/)
