@@ -13,7 +13,7 @@
 
 ## Usage
 
-1. Install the [Themer](https://cdn.discordapp.com/attachments/868419532992172073/921815801214947338/20211218_360p.mp4) plugin
+1. Install the [Themer](/InstallThemer.md) plugin
 2. Make sure Dark Mode is enabled (AMOLED mode disabled for better results)
 3. Copy
 ```
