@@ -20,6 +20,7 @@
 4. Go to to [this message](https://discord.com/channels/811255666990907402/824357609778708580/931357367528996964)
 #### Moon/Dawn
 Soon:tm:
+> Instead of joining the support server, you can download the JSON files manually and move them into Aliucord/themes on your phone's file manager.
 
 5. Press and hold on the message, then hit "Install Theme"
 6. In the Themer plugin settings, tap "Load Missing Themes"
