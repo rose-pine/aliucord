@@ -17,7 +17,7 @@
 2. Make sure Dark Mode is enabled (AMOLED mode disabled for better results)
 3. Copy
 ```
-https://github.com/rose-pine/aliucord/releases/download/v1.0.1/RosePine.json
+https://raw.githubusercontent.com/rose-pine/aliucord/main/RosePine.json
 ```
 4. Paste in a random channel
 5. Press and hold on the message, then hit "Install Theme"
