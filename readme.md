@@ -15,15 +15,20 @@
 
 1. Install the [Themer](/InstallThemer.md) plugin
 2. Make sure Dark Mode is enabled (AMOLED mode disabled for better results)
+#### Rosé Pine
 3. Copy
 ```
 https://raw.githubusercontent.com/rose-pine/aliucord/main/RosePine.json
-```
-4. Paste in a random channel
-5. Press and hold on the message, then hit "Install Theme"
-6. In the Themer plugin settings, tap "Load Missing Themes"
-7. Check Rosé Pine and uncheck other themes
-8. Tap Restart
+``` 
+and paste in a random channel
+> Or, join the [Aliucord support server](https://discord.gg/EsNDvBaHVU) and go to to [this message](https://discord.com/channels/811255666990907402/824357609778708580/931357367528996964)
+#### Moon/Dawn
+Soon:tm:
+
+4. Press and hold on the message, then hit "Install Theme"
+5. In the Themer plugin settings, tap "Load Missing Themes"
+6. Check Rosé Pine and uncheck other themes
+7. Tap Restart
 
 ## Gallery
 
