@@ -33,6 +33,9 @@ https://raw.githubusercontent.com/rose-pine/aliucord/main/RosePine.json
 <img src="https://user-images.githubusercontent.com/44733677/149420059-012861c2-82a1-4950-a96a-9548a9b1058d.png" height="500" />
 </div>
 
+![image](https://user-images.githubusercontent.com/44733677/149436373-f14edc17-6336-4b11-8844-5272c51914c3.png)
+
+
 ## Thanks to
 
 - [ThatOneCalculator](https://t1c.dev)
