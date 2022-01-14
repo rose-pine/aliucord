@@ -1,5 +1,5 @@
 ## Text instructions
-- Join the Aliucord support server
+- Join the [Aliucord support server](https://discord.gg/EsNDvBaHVU)
 - Go to this message: https://discord.com/channels/811255666990907402/811275162715553823/846165924708614194
 - Long-press and open plugin downloader
 - Install Themer
